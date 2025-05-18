@@ -7,6 +7,16 @@ Each topic is explained in a beginner-friendly way, using **simple English (some
 
 ---
 
+## 📆 My OS Learning Timeline
+
+- **Start Date →** 13th May 2025  
+- **End Date →** 16th May 2025  
+
+During these 4 days, I focused on understanding fundamental and advanced OS concepts, practiced examples, and documented my learning clearly.  
+This timeline marks my consistent effort to build a strong foundation in Operating Systems for interviews and real-world usage.
+
+---
+
 ##  Purpose
 
 The goal of this repository is to **track my OS learning journey from scratch** and to build a solid understanding of how operating systems work behind the scenes.  
