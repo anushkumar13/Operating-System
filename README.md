@@ -78,7 +78,7 @@ If you found this repository helpful,
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anush-kumar-mall)  
 - 📸 [Instagram](https://www.instagram.com/anushkumar13?igsh=NWc5a3VwbHN3bzZ0)  
-- ✉️ Email: mallanushkumar@gmail.com
+- ✉️ Email: kumarmallanush@gmail.com
 
 ---
 
